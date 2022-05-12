@@ -1,4 +1,4 @@
-<img title="Airbnb madrid" alt="Stefan" width="1200px" src="https://www.ourlife.gr/files/airbnb-678x381-1.jpg" />
+<img title="Airbnb madrid" alt="Stefan" width="1000" height="500" src="https://www.ourlife.gr/files/airbnb-678x381-1.jpg" />
 
 
 ## Airbnb Madrid Analysis Project
