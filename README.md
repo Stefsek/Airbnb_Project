@@ -27,7 +27,7 @@ In our repo we created the following folders:
 - Cleaning
 (on cleaning we stored the cleaning process)
 - Presentation
-(In this folder we uploaded all the graphs and description of our presentation)
+(In this folder we uploaded our presentation)
 - analysis
 (All the analysis notebooks we worked on)
 
